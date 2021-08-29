@@ -9,7 +9,6 @@ Desenvolvido no curso multi-stack da treinaweb
 '''
 git clone https://github.com/DevPessoa75/multistack-sistema-administrativo-ediaristas-php.git
 '''
-
 ### Instalar as dependências
 
 '''

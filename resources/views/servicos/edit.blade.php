@@ -6,7 +6,9 @@
     <h1>Editar Serviço</h1>
 @stop
 
-@section('content')
+@section('content')   
+    @include('_mensagens')
+
     <form action="{{ route('servicos.update', $servico) }}" method="post">
         @method('PUT')
 
